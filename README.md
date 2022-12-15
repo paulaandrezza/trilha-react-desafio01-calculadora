@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto simula uma calculadora com funções de soma, subtração, divisão e porcentagem.
+O projeto simula uma calculadora com funções de soma, subtração, divisão, multiplicação e porcentagem.
 
 <br>
 ---
